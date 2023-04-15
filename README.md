@@ -1,3 +1,5 @@
+<a href="https://twitter.com/dattududam" target="blank"><img align="center" src="https://lamfo-unb.github.io/img/Sorting-algorithms/Quicksort.gif" alt="dattududam" height="200" width="100%" /></a>
+
 <h1 align="center">Hi 👋, I'm Neeraj Dattu Dudam</h1>
 <h3 align="center">A coder who enjoys solving problems, learning new skills, and doing projects.</h3>
 <img align = "right" alt ="coding" width ="300" src = "https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
