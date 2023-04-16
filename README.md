@@ -1,4 +1,4 @@
-<a href="https://en.wikipedia.org/wiki/Quicksort" target="blank"><img align="center" src="https://lamfo-unb.github.io/img/Sorting-algorithms/Quicksort.gif" alt="dattududam" height="200" width="100%" /></a>
+<a href="https://en.wikipedia.org/wiki/Quicksort" target="blank"><img align="center" src="https://lamfo-unb.github.io/img/Sorting-algorithms/Quicksort.gif" alt="dattududam" height="150" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Neeraj Dattu Dudam</h1>
 <h3 align="center">A coder who enjoys solving problems, learning new skills, and doing projects.</h3>
