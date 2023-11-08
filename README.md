@@ -36,6 +36,8 @@
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/learntocode/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/tg4dCDfn/code-stable.png" alt="react" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/learntocode/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/tJBpyqVx/OIP-TPDk-LFa-Y-zd-O1zv3x7r08-QHa-Ha-w-179-h-180-c-7-r-0-o-5-dpr-1-3-pid-1.jpg" alt="react" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudam-neeraj-dattu&show_icons=true&locale=en&layout=compact" alt="dudam-neeraj-dattu" /></p>
