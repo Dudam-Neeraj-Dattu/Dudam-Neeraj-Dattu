@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dattududam" target="_blank"><img align="center" src="https://github.com/Dudam-Neeraj-Dattu/Dudam-Neeraj-Dattu/assets/86230018/56ed28bd-fb8c-4db5-8125-2b1775b3aa32" alt="dattududam" height="40" width="40" ></a>
+<a href="https://twitter.com/dattududam" target="_blank"><img align="center" src="/images/twitter.png" alt="dattududam" height="40" width="40" ></a>
 <a href="https://linkedin.com/in/neeraj-dattu-dudam" target="_blank"><img align="center" src="https://github.com/Dudam-Neeraj-Dattu/Dudam-Neeraj-Dattu/assets/86230018/7568812b-5205-4500-8957-0dd0784f3e48" alt="neeraj-dattu-dudam" height="30" width="40" ></a>
 <a href="https://instagram.com/dudamdattu" target="_blank"><img align="center" src="https://github.com/Dudam-Neeraj-Dattu/Dudam-Neeraj-Dattu/assets/86230018/d0e0d1b2-683f-47c8-93b6-9ef5a77859ca" alt="dudamdattu" height="40" width="40" ></a>
 </p>
