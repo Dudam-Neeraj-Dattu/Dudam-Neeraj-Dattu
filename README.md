@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/dattududam" target="blank"><img src="https://img.shields.io/twitter/follow/dattududam?logo=twitter&style=for-the-badge" alt="dattududam" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://dudam-neeraj-dattu.github.io/Portfolio/](https://dudam-neeraj-dattu.github.io/Portfolio/)
 
