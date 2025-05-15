@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://dudam-neeraj-dattu.github.io/Portfolio/](https://dudam-neeraj-dattu.github.io/Portfolio/)
 
+- 💻 Explore my LeetCode statistics - [https://leetcode.com/u/D_Neeraj_Dattu/](https://leetcode.com/u/D_Neeraj_Dattu/)
+
 - 📫 How to reach me **neerajdattududam1019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
