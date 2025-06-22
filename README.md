@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://dudam-neeraj-dattu.github.io/Portfolio/](https://dudam-neeraj-dattu.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://dudam-neeraj-dattu.github.io/Personal-Portfolio/](https://dudam-neeraj-dattu.github.io/Personal-Portfolio/)
 
 - 💻 Explore my LeetCode statistics - [https://leetcode.com/u/D_Neeraj_Dattu/](https://leetcode.com/u/D_Neeraj_Dattu/)
 
