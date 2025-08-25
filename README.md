@@ -1,5 +1,5 @@
 <a href="https://en.wikipedia.org/wiki/Quicksort" target="blank"><img align="center" src="https://lamfo-unb.github.io/img/Sorting-algorithms/Quicksort.gif" alt="dattududam" height="150" width="100%" /></a>
-<h1 align="center">Hi 👋, I'm Neeraj Dattu Dudam</h1>
+<h1 align="center">Hi 👋, I'm Neerajdattu Dudam</h1>
 <h3 align="center">A passionate coder who enjoys solving problems, learning new skills, and doing projects.</h3>
 <img align = "right" alt ="coding" width ="300" src = "code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudam-neeraj-dattu&label=Profile%20views&color=0e75b6&style=flat" alt="dudam-neeraj-dattu" /> </p>
